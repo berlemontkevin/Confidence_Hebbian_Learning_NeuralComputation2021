@@ -1,4 +1,5 @@
 This is the github folder for the paper published in Neural Computation **Confidence-Controlled Hebbian Learning Efficiently Extracts Category Membership From Stimuli Encoded in View of a Categorization Task** in 2021 (https://direct.mit.edu/neco/article-abstract/34/1/45/107909/Confidence-Controlled-Hebbian-Learning-Efficiently)
+For open-access: https://www.biorxiv.org/content/10.1101/2020.08.06.239533v2.article-info
 
 The main part of the code lies within the *src folder*. 
 
